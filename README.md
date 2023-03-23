@@ -1,4 +1,4 @@
-**BooCab - A design layout dor Cab Booking application.**
+**BooCab - A design layout for Cab Booking application.**
 
 
 # test
