@@ -1,4 +1,6 @@
-# BooCab - A design layout for Cab Booking application.
+# BooCab - An Figma Design converted to Flutter.
+
+**A design layout for Cab Booking application.**
 
 **Home :**
 
